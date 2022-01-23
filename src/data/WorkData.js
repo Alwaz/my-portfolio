@@ -28,7 +28,7 @@ export const Work = [
       "A clone of Netlix build using ReactJS. With realtime fetching of movies using API.",
     tags: ["react", "api"],
 
-    // demo: "http://devto-clone-codebucks27.vercel.app/",
+    demo: "https://61ed4a61c8634e9306ce10d8--netflix-clone-alwaz.netlify.app/",
     github: "https://github.com/Alwaz/netflix-clone",
   },
   {
