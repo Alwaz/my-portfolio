@@ -33,13 +33,13 @@ export const Work = [
   },
   {
     id: 4,
-    name: "Disney Clone(React + Redux)",
+    name: "TRVL (React + React-router)",
     description:
-      "Built Disney clone using ReactJS, Redux-toolkit and styledComponents with Firebase Authentication and realtime fetching data using api",
-    tags: ["react", "redux", "firebaseauth"],
+      "Built an animated landing page for a travel agency, utilized React and react-router",
+    tags: ["react", "react-router-dom"],
 
-    // demo: "https://react-sidebar.vercel.app/",
-    github: "https://github.com/Alwaz/Disney-Clone",
+    demo: "https://61fd8a4bd52e24008a043c76--fervent-sinoussi-eece7f.netlify.app/",
+    github: "https://github.com/Alwaz/TRVL",
   },
   {
     id: 5,
