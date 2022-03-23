@@ -48,7 +48,7 @@ export const Work = [
       "Covid Tracker built on top of reactJS that shows Live Cases, Recoveries, Deaths by fetching real time data from disease.sh Api",
     tags: ["react", "disease.sh", "open maps", "linechart"],
 
-    // demo: "http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
+    demo: "https://github.com/Alwaz/react-covid-tracker-2-",
     github: "https://github.com/Alwaz/react-covid-tracker-2-",
   },
   {
@@ -58,7 +58,7 @@ export const Work = [
       "Developed a full-stack e-commerce website using reactJs and react router, utilzed Context API for state management and Integrated stripe as payment gateway.",
     tags: ["react", "contextapi", "stripe"],
 
-    // demo: "http://react-responsive-navbar-codebucks27.vercel.app/",
+    demo: "https://github.com/Alwaz/react-eCommerce",
     github: "https://github.com/Alwaz/react-eCommerce",
   },
 ];
